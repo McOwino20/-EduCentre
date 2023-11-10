@@ -4,7 +4,7 @@ An educational website for students and programmers 😊😊😊
 ![](pcView.png)
 
 Try this out::  
-https://mcowino20.github.io/EduCentre/EduCentre[Project]/
+https://mcowino20.github.io/EduCentre/EduCentre[Project]
 
 Our Educational Website would provide all the education related stuffs:  
 Notes, Sample Papers, Online Video Lectures and courses to crack competitive  
