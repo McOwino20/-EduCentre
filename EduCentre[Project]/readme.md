@@ -1,6 +1,6 @@
-## LearnEd (E-learning Website)
+## EduCentre (E-learning Website)
 An educational website for students and programmers 😊😊😊  
-
+<b>Learning made easy !</b>
 ![](pcView.png)
 
 Try this out::  
@@ -23,3 +23,4 @@ Interview questions for students who are preparing for placements.
 It is completely responsive website, to provide smooth experience...😎  
 
 If you like my project, give it a star  😁😁😁
+<footer>c McOwino 2023</footer>
